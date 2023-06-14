@@ -1,0 +1,13 @@
+header{
+    background: rgb(175,104,68);
+background: linear-gradient(257deg, rgba(175,104,68,1) 0%, rgba(255,255,255,1) 0%, rgba(40,38,38,1) 92%, rgba(40,38,38,1) 100%);
+}
+.nav .nav-item .nav-link{
+    color: white;
+}
+
+/* estilos banner */
+.img-banner{
+   margin-left: 25%;
+   margin-top: 100px;
+}
